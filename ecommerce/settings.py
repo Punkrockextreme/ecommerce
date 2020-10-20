@@ -27,7 +27,7 @@ SECRET_KEY = '$fasc@r0-1incypz!08654jc6=oea9v9no)z%vf-dr5fr)p9sx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
